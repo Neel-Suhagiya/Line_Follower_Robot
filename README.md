@@ -109,14 +109,6 @@ LEFT=0  RIGHT=1
 >> STOPPED — both on black
 ```
 
----
 
-## 🔧 Future Improvements
-
-- [ ] Add more IR sensors (e.g., 5-sensor array) for finer position tracking
-- [ ] Implement **PID control** for smoother, faster line following
-- [ ] Add obstacle detection using an ultrasonic sensor
-- [ ] Bluetooth/WiFi-based remote monitoring using ESP32's built-in connectivity
-- [ ] Replace fixed speed logic with analog IR readings for proportional control
 
 
