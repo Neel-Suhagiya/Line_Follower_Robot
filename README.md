@@ -92,7 +92,7 @@ These values can be tuned depending on your motor characteristics, surface frict
 1. Clone or download this repository.
 2. Open `line_follower.ino` in the Arduino IDE.
 3. Select your ESP32 board and correct COM port under **Tools**.
-4. Wire the components according to the [pin configuration](#-pin-configuration) above.
+4. Wire the components according to the pin configuration above.
 5. Upload the code to the ESP32.
 6. Open the Serial Monitor (baud rate `115200`) to view live sensor readings.
 7. Place the robot on the line — it will start moving after a 3-second delay.
@@ -119,14 +119,4 @@ LEFT=0  RIGHT=1
 - [ ] Bluetooth/WiFi-based remote monitoring using ESP32's built-in connectivity
 - [ ] Replace fixed speed logic with analog IR readings for proportional control
 
----
 
-## 📄 License
-
-This project is open-source and available for personal or educational use.
-
----
-
-## 🙋 Author
-
-Add your name, GitHub profile link, and contact info here.
